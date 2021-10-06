@@ -3,7 +3,6 @@ import java.util.Scanner;
 public class javawork {
     public static void main(String[] args) {
 
-        System.out.println("Welcome to my poor job, dear teacher Thiago!");
         System.out.println("Choose the number of the exercise you want to test: ");
         System.out.println("Enter '1' for exercise 9");
         System.out.println("Enter '2' for exercise 10");
